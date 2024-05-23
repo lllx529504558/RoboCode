@@ -1,0 +1,5 @@
+python labelme2voc.py [图像路径] [voc文件夹名称] --labels [label list]
+
+如：python labelme2voc.py photo target --labels labels.txt
+
+
