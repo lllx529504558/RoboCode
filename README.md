@@ -13,9 +13,9 @@
 <img src="RobotGrasp/图2.gif" width="50%">
 
 ## 硬件部分：
-Orbbec Gemini2深度相机 - 双目红外结构光
-Stereolabs ZED2i深度相机 - 双目RGB
-Hans Robot Elfin机械臂 - 6自由度
+- Orbbec Gemini2深度相机 - 双目红外结构光
+- Stereolabs ZED2i深度相机 - 双目RGB
+- Hans Robot Elfin机械臂 - 6自由度
 
 ## 代码部分: 
 ### 1. 机械臂控制函数：Hans_Robot.py 
