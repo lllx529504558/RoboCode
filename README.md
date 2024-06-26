@@ -6,11 +6,11 @@
 ## 结果展示：
 图1 - 深度相机图（左：Gemini2，中：ZED2i，右：识别结果）
 
-![图1.png](attachment:图1.png)
+![图1.png](RobotGrasp/图1.png)
 
 图2 - 机械臂抓取物体效果图（基于ZED2i + DeepLabV3Plus-ResNet18）
 
-![图2.gif](attachment:图2.gif)
+![图2.gif](RobotGrasp/图2.gif)
 
 ## 硬件部分：
 Orbbec Gemini2深度相机 - 双目红外结构光
